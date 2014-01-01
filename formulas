@@ -1,0 +1,24 @@
+2x2 tableau construction:
+
+Work: 
+T<sub>1</sub>(n) = 4T<sub>1</sub>(n/2) + O(1).
+a=4
+b=2
+O(1)=f(n)=O(n<sup>log<sub>b</sub>a-e</sup>, constant e>0 => T1(n)=O(n^(log_b(a))=O(n^(log_2(4))=O(n^2).
+
+Span:
+T_=(n)=3T_(n/2)+O(1).
+a=3
+b=2
+O(1)=f(n)=O(n^(log_b(a)-e), constant e>0 => T_(n)=O(n^(log_b(a))=O(n^(log_2(3))=O(n^lg(3)).
+
+Parallelism = (Work / Span) = O(n^2) / O(n^lg(3)) ~= O(n^2) / O(n^1.58) ~= O(n^0.42).
+
+
+4x4 tableau construction:
+
+Work:
+T1(n) = 16T1(n/4) + O(1).
+a=16
+b=4
+O(1)=f(n)=O(n^(log_b(a)-e)

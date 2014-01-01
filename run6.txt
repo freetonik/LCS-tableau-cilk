@@ -1,0 +1,5 @@
+lambda14:~/4009/as2> ./code2 64
+yenpljpwvqlbqwfqmkwzguykttreomworjeeutbplotdlyvzkraqlycgrukiigw
+zsaemvheixxnixihjakcnieucagkjngkhjqvgzzrxyehxpphrzlejrylsfxdugp
+Time 0
+LCS=enjkgkrerjldug

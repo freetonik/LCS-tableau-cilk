@@ -1,0 +1,7 @@
+lambda14:~/4009/as2> ./code1 64
+String X=cyzpiuobvdcxkefmjjiqqwwhidtwweqyeppmkdnfgseswjhfspxkluuvxptvtjv
+
+String Y=xbkjlpzsyryqpjzwbqtndnjymzrhudeueqfrgelexjwmswivmckspuqevknrnsl
+
+Time: 0
+LCS=yzbdmhdeqfgeswspkl
